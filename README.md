@@ -83,3 +83,9 @@ The clustering results did not align clearly with predefined violence categories
 
 Violence detection is a critical real-world problem, especially in educational and public environments.
 This project demonstrates the application of modern deep learning techniques in a practical, mobile-first solution.
+
+<img width="842" height="502" alt="image" src="https://github.com/user-attachments/assets/51e706b7-4a4a-42dc-9de1-993a24900db3" />
+
+<img width="546" height="464" alt="image" src="https://github.com/user-attachments/assets/db38c302-cdfd-4ee7-abeb-80af0b784a20" />
+
+
