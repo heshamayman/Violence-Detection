@@ -84,8 +84,22 @@ The clustering results did not align clearly with predefined violence categories
 Violence detection is a critical real-world problem, especially in educational and public environments.
 This project demonstrates the application of modern deep learning techniques in a practical, mobile-first solution.
 
-<img width="842" height="502" alt="image" src="https://github.com/user-attachments/assets/51e706b7-4a4a-42dc-9de1-993a24900db3" />
+<img width="214" height="467" alt="image" src="https://github.com/user-attachments/assets/506f69cc-a96c-4542-b955-e8fc5d47f7c0" />
 
-<img width="546" height="464" alt="image" src="https://github.com/user-attachments/assets/db38c302-cdfd-4ee7-abeb-80af0b784a20" />
+<img width="213" height="464" alt="image" src="https://github.com/user-attachments/assets/1aedad11-fbbf-457b-9459-b660020f6732" />
+
+<img width="223" height="433" alt="image" src="https://github.com/user-attachments/assets/ab927710-f824-423e-989b-e84a98ce6729" />
+
+<img width="235" height="401" alt="image" src="https://github.com/user-attachments/assets/4b19c754-1fa5-4276-a6b8-3809451a63d3" />
+
+<img width="217" height="421" alt="image" src="https://github.com/user-attachments/assets/b6aa47d0-6c78-410c-9962-de9c75525fdd" />
+
+<img width="216" height="432" alt="image" src="https://github.com/user-attachments/assets/1108cdcf-d741-4ce0-9be2-9b51ced1de72" />
+
+<img width="211" height="428" alt="image" src="https://github.com/user-attachments/assets/592891fb-ac72-4f19-8865-1bf58dac8eb7" />
+
+
+
+
 
 
