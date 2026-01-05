@@ -7,13 +7,13 @@ It aims to help government institutions, schools, and parents in Egypt identify 
 The system combines deep learning models with a mobile-friendly deployment to enable fast and efficient violence detection, even on low-end devices.
 
 ## Tech Stack
-**Mobile:** Flutter, Dart
+- **Mobile:** Flutter, Dart
 
-**Backend:** Python, FastAPI
+- **Backend:** Python, FastAPI
 
-**Deep Learning:** TensorFlow
+- **Deep Learning:** TensorFlow
 
-**Development & Training:** Google Colab
+- **Development & Training:** Google Colab
 
 ## Key Features
 
